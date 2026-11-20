@@ -33,7 +33,7 @@ Contributions, suggestions, and feedback are welcome.
 
 Nomisma is built upon and adapted from *Harnss* with its own architecture, specialized features, and research workflows.
 
-#We sincerely appreciate the original project and its contributors#
+We sincerely appreciate the original project and its contributors.Best respects for the open-source community 
 
 ## Others
 
