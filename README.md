@@ -23,7 +23,7 @@ More than just an AI chatbot, Nomisma helps turn research ideas into practical w
 | **Big Data** | General-purpose data processing and exploration |
 
 
-## Open Source
+## Open Source License
 
 Released under the [MIT License](LICENSE).
 
@@ -33,19 +33,13 @@ Contributions, suggestions, and feedback are welcome.
 
 Nomisma is built upon and adapted from *Harnss* with its own architecture, specialized features, and research workflows.
 
-We sincerely appreciate the original project and its contributors.Best respects for the open-source community
+**We sincerely appreciate the original project and its contributors.Best respects for the open-source community.**
 
-Harnss:
+Harnss link below:
 https://github.com/OpenSource03/harnss
 
 ## Others
 
-The Nomisma is a vibe-coding creation and still has plenty of issues or the imprefect using experiences
+The Nomisma is a vibe-coding creation and still has issues or the imprefect using experiences
 
 Any issues are welcomed to re1kowww@163.com
-
-
-
----
-
-**Built for exploration, shared for everyone.**
